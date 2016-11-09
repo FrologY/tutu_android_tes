@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tutu_android_test</string>
+    <string name="button1">Shedule</string>
+    <string name="button2">About</string>
+    <string name="date">Select date</string>
+    <string name="text1">From</string>
+    <string name="text2">To</string>
+    <string name="text3">Date</string>
+</resources>

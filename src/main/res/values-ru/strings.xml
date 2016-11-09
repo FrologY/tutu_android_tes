@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тестовое приложение для туту.ру</string>
+    <string name="button1">Расписание</string>
+    <string name="button2">О приложении</string>
+    <string name="date">Выберите дату</string>
+    <string name="text1">Пункт отправления</string>
+    <string name="text2">Пункт прибытия</string>
+    <string name="text3">Дата</string>
+</resources>
